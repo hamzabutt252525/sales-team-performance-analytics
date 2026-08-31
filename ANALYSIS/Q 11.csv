@@ -1,0 +1,12 @@
+territory,primary_segment,rep_count,avg_attainment,total_revenue,avg_deal_size
+APAC,SMB,3,74.71,3126382.0,29202.0
+APAC,Mid-Market,5,74.53,4680757.0,28388.0
+APAC,Enterprise,1,42.08,757473.0,27208.0
+EMEA,Mid-Market,2,106.17,4284862.0,42431.0
+EMEA,Enterprise,3,82.23,2828819.0,34419.0
+EMEA,SMB,8,80.12,8473752.0,29571.0
+LATAM,SMB,3,87.71,2812905.0,28806.0
+LATAM,Mid-Market,1,37.83,283708.0,13911.0
+North America,SMB,4,91.62,4643146.0,36758.0
+North America,Mid-Market,6,81.46,7236222.0,36939.0
+North America,Enterprise,4,70.44,4007514.0,29764.0

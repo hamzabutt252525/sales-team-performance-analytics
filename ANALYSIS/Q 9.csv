@@ -1,0 +1,5 @@
+performance_tier,avg_pipeline_value,avg_pipeline_coverage,avg_win_rate_pct,avg_sales_cycle_days
+Top Performer,240457.0,3.47,35.58,43.7
+Solid Performer,194255.0,2.8,24.99,59.2
+Underperformer,117622.0,2.01,15.0,84.3
+At-Risk,136247.0,1.97,15.13,83.0

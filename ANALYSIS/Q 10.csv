@@ -1,0 +1,8 @@
+loss_reason,deal_count,lost_revenue,avg_lost_deal_size,avg_cycle_before_loss
+Price,214,17974710.0,83994.0,58.8
+Competitor,194,17292918.0,89139.0,59.8
+No Decision,125,11053729.0,88430.0,55.9
+Timing,137,9820230.0,71681.0,52.0
+Missing Feature,97,8672192.0,89404.0,58.7
+Poor Fit,82,5957362.0,72651.0,54.1
+Budget Cut,37,3188171.0,86167.0,56.8

@@ -1,0 +1,41 @@
+full_name,territory,primary_segment,attainment_pct,avg_calls,monthly_revenue,tenure_months,coaching_priority
+Grace Thompson,APAC,Mid-Market,37.85,20.0,23656.0,26,Performance Review Required
+Sophie Park,EMEA,SMB,39.97,19.0,24980.0,28,Performance Review Required
+James Smith,APAC,SMB,41.08,22.0,41086.0,19,Performance Review Required
+Zara Sharma,APAC,Enterprise,42.08,21.0,31561.0,27,Performance Review Required
+Aisha Khan,North America,Enterprise,42.48,21.0,26553.0,28,Performance Review Required
+David Wilson,EMEA,SMB,60.29,18.0,30144.0,13,Intensive Coaching
+Alex Chen,EMEA,Enterprise,60.79,17.0,37994.0,12,Intensive Coaching
+Yusuf Taylor,LATAM,SMB,63.42,22.0,47564.0,15,Intensive Coaching
+Hassan Lee,North America,SMB,64.2,20.0,48148.0,12,Intensive Coaching
+Julia Young,North America,Mid-Market,64.22,17.0,32109.0,17,Intensive Coaching
+Ahmed Williams,APAC,Mid-Market,65.55,19.0,40972.0,19,Intensive Coaching
+Priya Kumar,North America,Enterprise,66.68,21.0,41675.0,25,Intensive Coaching
+Emma Jones,North America,Enterprise,73.06,23.0,36532.0,34,Intensive Coaching
+Olivia Kim,EMEA,SMB,73.19,19.0,45744.0,35,Intensive Coaching
+Layla Ahmed,EMEA,SMB,73.41,20.0,36704.0,28,Intensive Coaching
+Daniel Garcia,EMEA,SMB,73.82,18.0,36912.0,33,Intensive Coaching
+Kunal Lewis,North America,Mid-Market,74.7,20.0,46687.0,31,Intensive Coaching
+Tariq Martin,APAC,Mid-Market,79.12,33.0,39557.0,12,Skill Development
+Chris Johnson,North America,Mid-Market,83.15,29.0,51970.0,12,Skill Development
+Ravi Zhang,EMEA,Enterprise,83.35,28.0,62512.0,14,Skill Development
+Sanjay White,North America,Mid-Market,84.56,28.0,84564.0,15,Skill Development
+Isabel Thomas,LATAM,SMB,84.91,29.0,53068.0,14,Skill Development
+John Brown,North America,Mid-Market,87.52,29.0,87523.0,20,Skill Development
+Fatima Ali,APAC,SMB,88.8,31.0,66597.0,17,Skill Development
+Maria Patel,EMEA,SMB,88.98,25.0,55613.0,23,Skill Development
+Robert Martinez,North America,SMB,89.08,30.0,55674.0,21,Skill Development
+Rohan Hall,APAC,Mid-Market,91.78,31.0,68837.0,22,Skill Development
+Faisal Moore,APAC,SMB,92.16,26.0,46080.0,23,Skill Development
+Alice Walker,North America,Mid-Market,92.84,32.0,69630.0,24,Skill Development
+Anna Anderson,EMEA,Enterprise,93.15,29.0,58218.0,24,Skill Development
+Nadia Rahman,EMEA,SMB,96.1,29.0,72076.0,33,Skill Development
+Elena Harris,North America,Enterprise,99.55,30.0,62220.0,28,Skill Development
+Karan Singh,APAC,Mid-Market,99.67,30.0,49837.0,35,Skill Development
+Nikhil Robinson,EMEA,Mid-Market,99.87,30.0,74901.0,31,Skill Development
+Lucia Wang,North America,SMB,100.49,31.0,75367.0,33,Retain & Reward
+Sara Clark,North America,SMB,104.92,48.0,65574.0,14,Retain & Reward
+Sofia Rodriguez,LATAM,SMB,111.63,44.0,69770.0,17,Retain & Reward
+Diana Jackson,EMEA,Mid-Market,113.06,45.0,113056.0,21,Retain & Reward
+Omar Lopez,EMEA,SMB,126.92,45.0,63459.0,35,Retain & Reward
+Michael Nguyen,LATAM,Mid-Market,37.83,24.0,18914.0,14,Standard Coaching

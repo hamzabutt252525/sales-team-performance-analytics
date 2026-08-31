@@ -1,0 +1,5 @@
+performance_tier,avg_calls,avg_meetings,avg_demos,avg_deals,call_to_meeting_pct,meeting_to_demo_pct,demo_to_deal_pct
+Top Performer,46.0,19.7,7.4,3.4,44.76,38.63,47.19
+Solid Performer,29.0,11.4,4.5,2.1,43.23,43.05,49.79
+Underperformer,20.0,6.4,2.6,1.2,39.76,55.51,57.35
+At-Risk,21.0,6.7,2.7,1.1,37.31,49.41,53.41

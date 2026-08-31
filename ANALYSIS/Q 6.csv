@@ -1,0 +1,41 @@
+full_name,territory,primary_segment,performance_tier,avg_attainment,total_revenue,performance_rank
+Omar Lopez,EMEA,SMB,Top Performer,126.92,1523023.0,1
+Diana Jackson,EMEA,Mid-Market,Top Performer,113.06,2487227.0,2
+Sofia Rodriguez,LATAM,SMB,Top Performer,111.63,1255859.0,3
+Sara Clark,North America,SMB,Top Performer,104.92,983604.0,4
+Lucia Wang,North America,SMB,Solid Performer,100.49,1808803.0,5
+Nikhil Robinson,EMEA,Mid-Market,Solid Performer,99.87,1797635.0,6
+Karan Singh,APAC,Mid-Market,Solid Performer,99.67,1196087.0,7
+Elena Harris,North America,Enterprise,Solid Performer,99.55,1493269.0,8
+Nadia Rahman,EMEA,SMB,Solid Performer,96.1,1729814.0,9
+Anna Anderson,EMEA,Enterprise,Solid Performer,93.15,1397227.0,10
+Alice Walker,North America,Mid-Market,Solid Performer,92.84,1671129.0,11
+Faisal Moore,APAC,SMB,Solid Performer,92.16,1105915.0,12
+Rohan Hall,APAC,Mid-Market,Solid Performer,91.78,1583243.0,13
+Robert Martinez,North America,SMB,Solid Performer,89.08,1224818.0,14
+Maria Patel,EMEA,SMB,Solid Performer,88.98,1334722.0,15
+Fatima Ali,APAC,SMB,Solid Performer,88.8,1198745.0,16
+John Brown,North America,Mid-Market,Solid Performer,87.52,1837993.0,17
+Isabel Thomas,LATAM,SMB,Solid Performer,84.91,796023.0,18
+Sanjay White,North America,Mid-Market,Solid Performer,84.56,1353029.0,19
+Ravi Zhang,EMEA,Enterprise,Solid Performer,83.35,937675.0,20
+Chris Johnson,North America,Mid-Market,Solid Performer,83.15,675616.0,21
+Tariq Martin,APAC,Mid-Market,Solid Performer,79.12,514244.0,22
+Kunal Lewis,North America,Mid-Market,Underperformer,74.7,1120496.0,23
+Daniel Garcia,EMEA,SMB,Underperformer,73.82,885882.0,24
+Layla Ahmed,EMEA,SMB,Underperformer,73.41,880908.0,25
+Olivia Kim,EMEA,SMB,Underperformer,73.19,1097859.0,26
+Emma Jones,North America,Enterprise,Underperformer,73.06,876763.0,27
+Priya Kumar,North America,Enterprise,Underperformer,66.68,1000205.0,28
+Ahmed Williams,APAC,Mid-Market,Underperformer,65.55,819446.0,29
+Julia Young,North America,Mid-Market,Underperformer,64.22,577959.0,30
+Hassan Lee,North America,SMB,Underperformer,64.2,625921.0,31
+Yusuf Taylor,LATAM,SMB,Underperformer,63.42,761023.0,32
+Alex Chen,EMEA,Enterprise,Underperformer,60.79,493917.0,33
+David Wilson,EMEA,SMB,Underperformer,60.29,422013.0,34
+Aisha Khan,North America,Enterprise,At-Risk,42.48,637276.0,35
+Zara Sharma,APAC,Enterprise,At-Risk,42.08,757473.0,36
+James Smith,APAC,SMB,At-Risk,41.08,821723.0,37
+Sophie Park,EMEA,SMB,At-Risk,39.97,599532.0,38
+Grace Thompson,APAC,Mid-Market,At-Risk,37.85,567737.0,39
+Michael Nguyen,LATAM,Mid-Market,At-Risk,37.83,283708.0,40
