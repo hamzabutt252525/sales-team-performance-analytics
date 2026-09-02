@@ -1,7 +1,7 @@
 # Sales Team Performance Analytics
 ## A Coaching Framework Identifying $5.93M in Annual Revenue Opportunity
 
-**Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/hamza.bashir.butt/viz/Sales_Team_Performance_Analytics/Dashboard1)
+**Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/hamza.bashir.butt/viz/SalesTeamPerformanceAnalytics/Sales_Team_Performance_Analytics)
 
 ---
 
